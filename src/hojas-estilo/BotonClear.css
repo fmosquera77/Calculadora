@@ -1,0 +1,19 @@
+.BotonClear{
+    height: 80px;
+    font-size: 1.6em;
+    background-color: rgb(247, 116, 30);
+    font-weight: bold;
+    color: white;
+    display: flex;
+    flex: 1;
+    margin-top: 10px;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid white;
+    cursor: pointer;
+    border-radius: 35px;
+}
+
+.BotonClear:hover{
+    background-color: #f3bb13;
+}
